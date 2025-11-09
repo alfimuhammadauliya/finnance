@@ -1,0 +1,3 @@
+# finnanceapp
+
+Flutter Project Bank.
