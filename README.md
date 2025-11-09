@@ -1,4 +1,5 @@
 # finnanceapp
+A Flutter app with Finnance App
 
-Tampilan Finnance
-![Login Screen](finnancess.png)
+## Screenshot
+![Finnance Screen](finnancess.png)
