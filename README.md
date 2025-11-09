@@ -1,3 +1,4 @@
 # finnanceapp
 
-Flutter Project Bank.
+Tampilan Finnance
+![Login Screen](finnancess.png)
